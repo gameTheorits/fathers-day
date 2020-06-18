@@ -37,7 +37,7 @@ function draw() {
 
 
 image(f,width/2-160,450,120,160)
- fill(250,)
+ fill(0)
  textFont("Harlow Solid Italic")
  //strokeWeight(1)
  noStroke(0)
