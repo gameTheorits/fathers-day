@@ -36,7 +36,7 @@ function draw() {
   background(bi);
 
 
-image(f,width/2-160,450,120,160)
+image(f,width/2-190,450,190,190)
  fill(0)
  textFont("Harlow Solid Italic")
  //strokeWeight(1)
